@@ -1,0 +1,26 @@
+table{
+ border:1px solid #fc58a6;
+ color:#720337;
+}
+table th {
+/*  background-image: url(th_bg3.gif); */
+/*  background-repeat::repeat-x; */
+ height:30px;
+ color:#35031b;
+}
+table td{
+ border:1px dashed #feb8d9;
+ padding:0 1.5em 0;
+}
+table th{
+ border:1px solid #b9f9dc;
+ padding:0 2px 0;
+}
+table tr.tr_css{
+ background-color:#fbd8e8;
+}
+ 
+.hover{
+   background-color: #53AB38;
+   color: #fff;
+}

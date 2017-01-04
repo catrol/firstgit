@@ -1,0 +1,40 @@
+body,table{
+ font-size:18px;
+}
+table{
+ table-layout:fixed;
+ empty-cells:show; 
+ border-collapse: collapse;
+ margin:0 auto;
+}
+table{
+ border:1px solid #cad9ea;
+ color:#666;
+}
+td{
+ height:20px;
+}
+
+
+
+table{
+ border:1px solid #9db3c5;
+ color:#666;
+}
+table th {
+/*  background-image: url(th_bg2.gif); */
+/*  background-repeat::repeat-x; */
+ height:30px;
+ color:#fff;
+}
+table td{
+ border:1px dotted #cad9ea;
+ padding:0 2px 0;
+}
+table th{
+ border:1px solid #a7d1fd;
+ padding:0 2px 0;
+}
+table tr.tr_css{
+ background-color:#e8f3fd;
+}
